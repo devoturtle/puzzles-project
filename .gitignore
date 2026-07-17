@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+#With Open generated files
+data/
